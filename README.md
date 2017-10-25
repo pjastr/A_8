@@ -1,0 +1,1 @@
+Napisz program do konwertowania stopni Celsjusza na stopnie Kelvina i Fahrenheita.
